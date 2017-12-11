@@ -1,0 +1,12 @@
+#detail {
+    font-weight:bold;
+    font-family: Quicksand;
+    font-size: 32px;
+    margin:2%;
+}
+
+.user-details{
+    background-color: white;
+    margin-left: 20%;
+    margin-right:20%;
+}
